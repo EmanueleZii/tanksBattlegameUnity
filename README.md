@@ -13,7 +13,7 @@ Questo gioco è un **top-down shooter ** in cui due carri armati si sfidano in a
 
 ## 🧰 Tecnologie utilizzate
 
-- **Unity** 2020+ (URP supportato)
+- **Unity** 2022+ 
 - **C#**
 - **Unity UI System**
 - **Unity Physics**
